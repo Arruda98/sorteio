@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "evento.sorteio.minis/1.0.0": {
+        "runtime": {
+          "evento.sorteio.minis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evento.sorteio.minis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

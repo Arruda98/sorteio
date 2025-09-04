@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jefferson\\source\\repos\\Atividades PY para C#\\evento.sorteio.minis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030798E7-95B9-4F2D-9289-39C99B2D76A7}|evento.sorteio.minis\\evento.sorteio.minis.csproj|c:\\users\\jefferson\\source\\repos\\atividades py para c#\\evento.sorteio.minis\\evento.sorteio.minis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030798E7-95B9-4F2D-9289-39C99B2D76A7}|evento.sorteio.minis\\evento.sorteio.minis.csproj|solutionrelative:evento.sorteio.minis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jefferson\\source\\repos\\Atividades PY para C#\\evento.sorteio.minis\\evento.sorteio.minis\\Program.cs",
+              "RelativeDocumentMoniker": "evento.sorteio.minis\\Program.cs",
+              "ToolTip": "C:\\Users\\Jefferson\\source\\repos\\Atividades PY para C#\\evento.sorteio.minis\\evento.sorteio.minis\\Program.cs",
+              "RelativeToolTip": "evento.sorteio.minis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T01:36:11.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
