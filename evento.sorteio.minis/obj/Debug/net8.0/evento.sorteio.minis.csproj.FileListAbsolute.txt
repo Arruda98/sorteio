@@ -12,3 +12,4 @@ C:\Users\Jefferson\source\repos\Atividades PY para C#\evento.sorteio.minis\event
 C:\Users\Jefferson\source\repos\Atividades PY para C#\evento.sorteio.minis\evento.sorteio.minis\obj\Debug\net8.0\evento.sorteio.minis.pdb
 C:\Users\Jefferson\source\repos\Atividades PY para C#\evento.sorteio.minis\evento.sorteio.minis\obj\Debug\net8.0\evento.sorteio.minis.genruntimeconfig.cache
 C:\Users\Jefferson\source\repos\Atividades PY para C#\evento.sorteio.minis\evento.sorteio.minis\obj\Debug\net8.0\ref\evento.sorteio.minis.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\evento.sorteio.minis\evento.sorteio.minis\obj\Debug\net8.0\evento.sorteio.minis.sourcelink.json

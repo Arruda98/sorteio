@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("evento.sorteio.minis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c1e5dbfef1a76d6d97fe43be4d11ec079921d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("evento.sorteio.minis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("evento.sorteio.minis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
