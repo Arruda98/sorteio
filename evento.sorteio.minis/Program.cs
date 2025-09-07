@@ -24,14 +24,18 @@ namespace Evento
                 "\n1 - Definir números" +
                 "\n2 - Listar números sorteados" +
                 "\n3 - Sorteio" +
-                "\n4 - Sair\n");
-            double resposta = double.Parse(Console.ReadLine());
+                "\n4 - Listar ganhadores" +
+                "\n5 - Sair");
+            int resposta = int.Parse(Console.ReadLine());
 
             switch(resposta)
             {
                 case 1: DefinirNumero(); break;
                 case 2: ListarNumeros(); break;
                 case 3: SortearNumero(); break;
+                case 4: ListarGanhadores(); break;
+                case 5: Sar(); break;
+                default: break;
             }
         }
 
@@ -89,7 +93,7 @@ namespace Evento
                 Console.Clear();
 
                 Console.WriteLine("Digite:\n1 - Sortear número\n2 - Sair");
-                double opcao = double.Parse(Console.ReadLine());
+                int opcao = int.Parse(Console.ReadLine());
 
                 if (opcao == 2)
                 {
@@ -114,6 +118,27 @@ namespace Evento
             Thread.Sleep(2000);
 
             Menu();
+        }
+
+        public static void ListarGanhadores()
+        {
+            Console.Clear();
+            Console.WriteLine("Números que foram sorteados: ");
+            int i = 1;
+            foreach (int valor in number)
+            {
+                Console.WriteLine($"{i} - {valor}");
+                i++;
+            }
+            Thread.Sleep(2000);
+            Menu();
+        }
+
+        public static void Sair()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Obrigado!!");
         }
     }
 }
